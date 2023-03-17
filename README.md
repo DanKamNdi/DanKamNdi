@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DanKamNdi
-- 👀 I’m interested in Front-end engineering
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on any interesting web development projects
+- 👨‍💻 I am currently building a Price Comparison App
 - 📫 How to reach me: https://twitter.com/a_kama_u
 
 <!---
