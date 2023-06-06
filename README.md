@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanKamNdi
-- 👨‍💻 I am currently building a Price Comparison App
+- 👨‍💻 I am currently building a Product and Price Comparison App called Soko360
 - 📫 How to reach me: https://twitter.com/a_kama_u
 
 <!---
