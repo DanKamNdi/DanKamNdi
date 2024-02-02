@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DanKamNdi
-- 👨‍💻 I am currently building a Product and Price Comparison App called Soko360
+- 👨‍💻 I am currently building an AI-powered Legal Assistant called Sheria Co-Counsel
+- 🚧 Check out Sheria Co-Counsel at https://augmentinai.com
 - 📫 How to reach me: https://twitter.com/a_kama_u
 
 <!---
