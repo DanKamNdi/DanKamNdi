@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DanKamNdi
-- 👨‍💻 I am currently building an AI-powered Legal Assistant called Sheria Co-Counsel
-- 🚧 Check out Sheria Co-Counsel at https://augmentinai.com
+- 👨‍💻 I love building
 - 📫 How to reach me: https://twitter.com/a_kama_u
 
 <!---
